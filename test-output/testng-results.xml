@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="3" total="10" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="٢٠٢٦-٠٢-١٦T٠٨:٤٦:٤١ EET" name="Default suite" finished-at="٢٠٢٦-٠٢-١٦T٠٨:٤٧:٠٧ EET" duration-ms="25891">
+    <groups>
+    </groups>
+    <test started-at="٢٠٢٦-٠٢-١٦T٠٨:٤٦:٤١ EET" name="Default test" finished-at="٢٠٢٦-٠٢-١٦T٠٨:٤٧:٠٧ EET" duration-ms="25891">
+      <class name="TestWebsite.TestCases">
+        <test-method is-config="true" signature="WebsiteSetup()[pri:0, instance:TestWebsite.TestCases@70a36a66]" started-at="٢٠٢٦-٠٢-١٦T٠٨:٤٦:٤١ EET" name="WebsiteSetup" finished-at="٢٠٢٦-٠٢-١٦T٠٨:٤٦:٤٣ EET" duration-ms="1852" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WebsiteSetup -->
+        <test-method signature="Login()[pri:3, instance:TestWebsite.TestCases@70a36a66]" started-at="٢٠٢٦-٠٢-١٦T٠٨:٤٦:٤٣ EET" name="Login" finished-at="٢٠٢٦-٠٢-١٦T٠٨:٤٦:٤٥ EET" duration-ms="1208" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="AddToCart()[pri:4, instance:TestWebsite.TestCases@70a36a66]" started-at="٢٠٢٦-٠٢-١٦T٠٨:٤٦:٤٥ EET" name="AddToCart" finished-at="٢٠٢٦-٠٢-١٦T٠٨:٤٦:٤٩ EET" duration-ms="4091" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddToCart -->
+        <test-method signature="AddToCart()[pri:4, instance:TestWebsite.TestCases@70a36a66]" started-at="٢٠٢٦-٠٢-١٦T٠٨:٤٦:٤٩ EET" name="AddToCart" finished-at="٢٠٢٦-٠٢-١٦T٠٨:٤٦:٥٢ EET" duration-ms="3213" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddToCart -->
+        <test-method signature="AddToCart()[pri:4, instance:TestWebsite.TestCases@70a36a66]" started-at="٢٠٢٦-٠٢-١٦T٠٨:٤٦:٥٢ EET" name="AddToCart" finished-at="٢٠٢٦-٠٢-١٦T٠٨:٤٦:٥٥ EET" duration-ms="3493" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddToCart -->
+        <test-method signature="AddToCart()[pri:4, instance:TestWebsite.TestCases@70a36a66]" started-at="٢٠٢٦-٠٢-١٦T٠٨:٤٦:٥٥ EET" name="AddToCart" finished-at="٢٠٢٦-٠٢-١٦T٠٨:٤٦:٥٩ EET" duration-ms="3727" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddToCart -->
+        <test-method signature="AddToCart()[pri:4, instance:TestWebsite.TestCases@70a36a66]" started-at="٢٠٢٦-٠٢-١٦T٠٨:٤٦:٥٩ EET" name="AddToCart" finished-at="٢٠٢٦-٠٢-١٦T٠٨:٤٧:٠٣ EET" duration-ms="3725" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddToCart -->
+        <test-method signature="ChangeQuantityAndCheckTotal()[pri:6, instance:TestWebsite.TestCases@70a36a66]" started-at="٢٠٢٦-٠٢-١٦T٠٨:٤٧:٠٣ EET" name="ChangeQuantityAndCheckTotal" finished-at="٢٠٢٦-٠٢-١٦T٠٨:٤٧:٠٧ EET" duration-ms="4497" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ChangeQuantityAndCheckTotal -->
+      </class> <!-- TestWebsite.TestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
